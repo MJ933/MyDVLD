@@ -88,7 +88,7 @@ namespace DVLD_PresentationLayer
 
         private void txtFilter_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (cbFilters.SelectedItem.ToString() == "Person LDLicenseID")
+            if (cbFilters.SelectedItem.ToString() == "Person ID")
             {
 
                 if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
@@ -122,7 +122,7 @@ namespace DVLD_PresentationLayer
         private void editToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = (DataGridViewRow)contextMenuStrip1.Tag;
-            int PersonID = (int)row.Cells["Person LDLicenseID"].Value;
+            int PersonID = (int)row.Cells["Person ID"].Value;
             UpdatePerosn.ID = PersonID;
             Form frm = new UpdatePerosn();
             frm.ShowDialog();
@@ -131,7 +131,7 @@ namespace DVLD_PresentationLayer
         private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = (DataGridViewRow)contextMenuStrip1.Tag;
-            int PersonID = (int)row.Cells["Person LDLicenseID"].Value;
+            int PersonID = (int)row.Cells["Person ID"].Value;
             clsPeopleBL Person1 = clsPeopleBL.FindPersonByID(PersonID);
             if (Person1 != null)
             {
@@ -139,19 +139,19 @@ namespace DVLD_PresentationLayer
                 if (clsPeopleBL.DeletePerson(PersonID))
                 {
 
-                    MessageBox.Show($"Person With  LDLicenseID {PersonID} Was Deleted Successfully");
+                    MessageBox.Show($"Person With  ID {PersonID} Was Deleted Successfully");
                 }
                 else
-                    MessageBox.Show($"Person With  LDLicenseID \"{PersonID}\" Was Not Deleted Successfully");
+                    MessageBox.Show($"Person With  ID \"{PersonID}\" Was Not Deleted Successfully");
             }
             else
-                MessageBox.Show($"There is not person with LDLicenseID {PersonID}");
+                MessageBox.Show($"There is not person with ID {PersonID}");
         }
 
         private void showToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = ((DataGridViewRow)contextMenuStrip1.Tag);
-            int PersonID = (int)row.Cells["Person LDLicenseID"].Value;
+            int PersonID = (int)row.Cells["Person ID"].Value;
             ShowPersonDetailsForm.ID = PersonID;
             Form form = new ShowPersonDetailsForm();
             form.ShowDialog();

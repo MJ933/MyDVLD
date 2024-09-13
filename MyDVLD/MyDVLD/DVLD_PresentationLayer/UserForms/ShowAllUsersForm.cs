@@ -137,14 +137,14 @@ namespace DVLD_PresentationLayer
 
         private void txtFilter_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (cbFilters.SelectedItem.ToString() == "Person LDLicenseID")
+            if (cbFilters.SelectedItem.ToString() == "Person ID")
             {
                 if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
                 {
                     e.Handled = true;
                 }
             }
-            else if (cbFilters.SelectedItem.ToString() == "User LDLicenseID")
+            else if (cbFilters.SelectedItem.ToString() == "User ID")
             {
                 if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
                 {
@@ -182,7 +182,7 @@ namespace DVLD_PresentationLayer
         private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = (DataGridViewRow)contextMenuStrip1.Tag;
-            int UserID = (int)row.Cells["User LDLicenseID"].Value;
+            int UserID = (int)row.Cells["User ID"].Value;
             clsUsersBL Person1 = clsUsersBL.FindUserByUserID(UserID);
 
             if (Person1 != null)
@@ -190,20 +190,20 @@ namespace DVLD_PresentationLayer
                 if (clsUsersBL.DeleteUser(UserID))
                 {
 
-                    MessageBox.Show($"User With  LDLicenseID {UserID} Was Deleted Successfully");
+                    MessageBox.Show($"User With  ID {UserID} Was Deleted Successfully");
                 }
                 else
-                    MessageBox.Show($"User With  LDLicenseID \"{UserID}\" Was Not Deleted Successfully Du to Data Related to id");
+                    MessageBox.Show($"User With  ID \"{UserID}\" Was Not Deleted Successfully Du to Data Related to id");
             }
             else
-                MessageBox.Show($"There is Not User with LDLicenseID {UserID}");
+                MessageBox.Show($"There is Not User with ID {UserID}");
 
         }
 
         private void editToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = (DataGridViewRow)contextMenuStrip1.Tag;
-            int PersonID = (int)row.Cells["Person LDLicenseID"].Value;
+            int PersonID = (int)row.Cells["Person ID"].Value;
             UpdateUserInfo.ID = PersonID;
             Form frm = new UpdateUserInfo();
             frm.ShowDialog();
@@ -212,7 +212,7 @@ namespace DVLD_PresentationLayer
         private void showToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = (DataGridViewRow)contextMenuStrip1.Tag;
-            int PersonID = (int)row.Cells["Person LDLicenseID"].Value;
+            int PersonID = (int)row.Cells["Person ID"].Value;
             ShowUserDetails.ID = PersonID;
             Form frm = new ShowUserDetails();
             frm.ShowDialog();
@@ -227,7 +227,7 @@ namespace DVLD_PresentationLayer
         private void changePasswordToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DataGridViewRow row = (DataGridViewRow)contextMenuStrip1.Tag;
-            int PersonID = (int)row.Cells["Person LDLicenseID"].Value;
+            int PersonID = (int)row.Cells["Person ID"].Value;
             ChangeUserPassword.ID = PersonID;
             Form frm = new ChangeUserPassword();
             frm.ShowDialog();

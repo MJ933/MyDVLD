@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|e:\\mydvld\\mydvld\\mydvld\\dvld_presentationlayer\\personforms\\showallpeopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:personforms\\showallpeopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|e:\\mydvld\\mydvld\\mydvld\\dvld_presentationlayer\\userforms\\showallusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:userforms\\showallusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|e:\\mydvld\\mydvld\\mydvld\\dvld_presentationlayer\\userforms\\showallusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:userforms\\showallusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|e:\\mydvld\\mydvld\\mydvld\\dvld_presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\licensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\licensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ldlappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:ldlappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\ucldlappinfoctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\ucldlappinfoctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\ucldlappinfoctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\ucldlappinfoctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ldlappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:ldlappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\showinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\showinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\drivinglicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\drivinglicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\showlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\showlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\licensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\licensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\showinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\showinternationallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\applicationforms\\showlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:applicationforms\\showlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\releasedetianlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56FF23D1-BD2E-4145-9121-52639E162427}|DVLD_PresentationLayer.csproj|solutionrelative:releasedetianlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowAllPeopleForm.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\PersonForms\\ShowAllPeopleForm.cs",
+              "RelativeDocumentMoniker": "PersonForms\\ShowAllPeopleForm.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\PersonForms\\ShowAllPeopleForm.cs",
+              "RelativeToolTip": "PersonForms\\ShowAllPeopleForm.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:05:15.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowAllUsersForm.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\UserForms\\ShowAllUsersForm.cs",
+              "RelativeDocumentMoniker": "UserForms\\ShowAllUsersForm.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\UserForms\\ShowAllUsersForm.cs",
+              "RelativeToolTip": "UserForms\\ShowAllUsersForm.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAgwMAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:01:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAllUsersForm.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\UserForms\\ShowAllUsersForm.cs",
+              "RelativeDocumentMoniker": "UserForms\\ShowAllUsersForm.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\UserForms\\ShowAllUsersForm.cs [Design]",
+              "RelativeToolTip": "UserForms\\ShowAllUsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:01:07.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:55:22.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucLDLAppInfoCtrl.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ucLDLAppInfoCtrl.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\ucLDLAppInfoCtrl.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ucLDLAppInfoCtrl.cs",
+              "RelativeToolTip": "ApplicationForms\\ucLDLAppInfoCtrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:51:05.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LDLAppInfo.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\LDLAppInfo.cs",
+              "RelativeDocumentMoniker": "LDLAppInfo.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\LDLAppInfo.cs",
+              "RelativeToolTip": "LDLAppInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:50:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LDLAppInfo.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\LDLAppInfo.cs",
+              "RelativeDocumentMoniker": "LDLAppInfo.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\LDLAppInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:49:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DrivingLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\DrivingLicenseInfo.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\DrivingLicenseInfo.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\DrivingLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:48:10.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucLDLAppInfoCtrl.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ucLDLAppInfoCtrl.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\ucLDLAppInfoCtrl.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ucLDLAppInfoCtrl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:47:49.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LicenseHistory.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LicenseHistory.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\LicenseHistory.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LicenseHistory.cs",
+              "RelativeToolTip": "ApplicationForms\\LicenseHistory.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:44:47.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LicenseHistory.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LicenseHistory.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\LicenseHistory.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:44:44.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalDrivingLicenseApplications.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\LocalDrivingLicenseApplications.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LocalDrivingLicenseApplications.cs",
+              "RelativeToolTip": "ApplicationForms\\LocalDrivingLicenseApplications.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAwwI8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:36:58.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalDrivingLicenseApplications.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\LocalDrivingLicenseApplications.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\LocalDrivingLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:36:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReleaseDetianLicense.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ReleaseDetianLicense.cs",
+              "RelativeDocumentMoniker": "ReleaseDetianLicense.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\ReleaseDetianLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:22:15.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowInternationalLicenseApplications.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowInternationalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\ShowInternationalLicenseApplications.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowInternationalLicenseApplications.cs",
+              "RelativeToolTip": "ApplicationForms\\ShowInternationalLicenseApplications.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAlwKsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:17:00.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowInternationalLicenseApplications.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowInternationalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\ShowInternationalLicenseApplications.cs",
+              "ToolTip": "D:\\C19\\MyDVLD 1.1\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowInternationalLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:14:07.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShowListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\ShowListDetainedLicenses.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "ApplicationForms\\ShowListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:12:58.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwv6IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:44:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShowListDetainedLicenses.cs",
+              "DocumentMoniker": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "ApplicationForms\\ShowListDetainedLicenses.cs",
+              "ToolTip": "E:\\MyDVLD\\MyDVLD\\MyDVLD\\DVLD_PresentationLayer\\ApplicationForms\\ShowListDetainedLicenses.cs",
+              "RelativeToolTip": "ApplicationForms\\ShowListDetainedLicenses.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAQwMcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:10:20.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
